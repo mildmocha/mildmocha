@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/gitgub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/figma-f24e1e?style=flat-square&logo=figma&logoColor=white"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mildmocha)](https://github.com/mildmocha/github-readme-stats)
+<img src="https://img.shields.io/badge/figma-f24e1e?style=flat-square&logo=figma&logoColor=white"/> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mildmocha)](https://github.com/mildmocha/github-readme-stats)
 </div>
   </div>
 <br/>
