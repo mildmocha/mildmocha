@@ -33,6 +33,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=white"/><br/>
 
+<img src="https://img.shields.io/badge/bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=sass&logoColor=white"/>
+
+
+
+
+
 
 <div/>
 <div display="inline-block">
