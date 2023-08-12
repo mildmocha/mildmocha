@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&text=mildmocha&color=e4c0a8&height=250&fontAlign=50&width=300)
 
 
-유종석 
+
 
 
  ✉ mildmocha175@naver.com
