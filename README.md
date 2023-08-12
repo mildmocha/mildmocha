@@ -35,7 +35,16 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/tailwindcss-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=sass&logoColor=white"/><br/>
+
+<img src="https://img.shields.io/badge/gitgub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/figma-f24e1e?style=flat-square&logo=figma&logoColor=white"/>
+
+
+
+
+
 
 
 
